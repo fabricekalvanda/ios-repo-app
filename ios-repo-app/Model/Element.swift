@@ -5,7 +5,7 @@
 //  Created by Brian Bansenauer on 10/5/19.
 //  Copyright © 2019 Cascadia College. All rights reserved.
 //
-class User: Codable {
+class Element: Codable {
     var UserID: String?
     var FirstName: String?
     var LastName: String?
